@@ -17,4 +17,4 @@ jobs:
         env:
           token: ${{ secrets.TOKEN }}
         with:
-          user: ${{ github.repository_owner }}
+          USERNAME: ${{ github.repository_owner }}
