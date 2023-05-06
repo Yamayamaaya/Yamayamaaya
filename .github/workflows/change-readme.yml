@@ -1,0 +1,25 @@
+name: Change README
+
+on:
+  schedule:
+    - cron: '0 7 * * *' # 9:00 UTC (日中)
+    - cron: '0 19 * * *' # 21:00 UTC (夜間)
+
+jobs:
+  change-readme-day:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.schedule[0] }}
+    steps:
+      - name: Update README for daytime
+        run: |
+          # 日中向けの内容を記述するコマンドをここに書く
+          echo "Hello, it's daytime!" > README.md
+
+  change-readme-night:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.schedule[1] }}
+    steps:
+      - name: Update README for nighttime
+        run: |
+          # 夜間向けの内容を記述するコマンドをここに書く
+          echo "Good evening, it's nighttime!" > README.md
