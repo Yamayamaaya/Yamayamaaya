@@ -2,24 +2,30 @@ name: Change README
 
 on:
   schedule:
-    - cron: '0 0,9,18 * * *' # 0:00, 9:00, 18:00 JST (日中)
-    - cron: '0 3,15,21 * * *' # 3:00, 15:00, 21:00 JST (夜間)
+    - cron: '0 0,9,12,15,18,21 * * *' # 0:00, 9:00, 12:00, 15:00, 18:00, 21:00 JST (日本時間)
+  workflow_dispatch:
 
 jobs:
-  change-readme-day:
+  change-readme:
     runs-on: ubuntu-latest
-    if: ${{ github.event.schedule[0] }}
     steps:
-      - name: Update README for daytime
-        run: |
-          # 日中向けの内容を記述するコマンドをここに書く
-          echo "Hello, it's daytime in Japan!" > README.md
+      - name: Checkout
+        uses: actions/checkout@v2
 
-  change-readme-night:
-    runs-on: ubuntu-latest
-    if: ${{ github.event.schedule[1] }}
-    steps:
-      - name: Update README for nighttime
+      - name: Update README
         run: |
-          # 夜間向けの内容を記述するコマンドをここに書く
-          echo "Good evening, it's nighttime in Japan!" > README.md
+          # 日本時間の取得
+          JST=$(TZ=Asia/Tokyo date "+%H")
+
+          # 日中か夜間か判定
+          if [ $JST -ge 9 ] && [ $JST -lt 21 ]; then
+            echo "Hello, it's daytime in Japan!" > README.md
+          else
+            echo "Good evening, it's nighttime in Japan!" > README.md
+          fi
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update README"
+          commit_options: "--no-verify"
