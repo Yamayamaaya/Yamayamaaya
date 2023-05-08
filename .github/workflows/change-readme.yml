@@ -18,7 +18,7 @@ jobs:
           hour=$(TZ=Asia/Tokyo date +%H)
           if [ $hour -ge 6 ] && [ $hour -lt 12 ]; then
             cat README-morning.md > README.md
-          else if [ $hour -ge 12 ] && [ $hour -lt 18 ]; then
+          elif [ $hour -ge 12 ] && [ $hour -lt 18 ]; then
             cat README-day.md > README.md
           else 
             cat README-night.md > README.md
