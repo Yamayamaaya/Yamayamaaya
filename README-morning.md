@@ -1,4 +1,4 @@
-<h1 align="center">Good Afternoon 👋, I'm Yamayamaaya</h1>
+<h1 align="center">Good Morning 👋, I'm Yamayamaaya</h1>
 <h3 align="center"><img align="center" width=10% src = "https://user-images.githubusercontent.com/100800509/236679302-2f5652d6-b139-4ea7-b7ac-2fea15b881f5.gif"></h3>
 
 <h3 align="center">A university student in Japan.</h3>
