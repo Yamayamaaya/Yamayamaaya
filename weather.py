@@ -14,10 +14,11 @@ humidity = weather_data['main']['humidity']
 weather_description = weather_data['weather'][0]['description']
 
 # README用の文字列を構築
-readme_text = f"現在の天気: {weather_description}\n温度: {temperature}℃\n湿度: {humidity}%"
+readme_text = f"weather: {weather_description}\ntemperature: {temperature}℃\nhumidity: {humidity}%"
 
 # READMEファイルを更新
-with open('README.md', 'r+') as f:
+with open('README.md', 'r') as f:
     content = f.read()
-    new_content = content.replace('OLD_STRING',readme_text)
+    new_content = content.replace('WEATHER_INFORMATION',readme_text)
+with open('README.md', 'w') as f:
     f.write(new_content)

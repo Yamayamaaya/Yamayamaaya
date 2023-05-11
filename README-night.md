@@ -1,5 +1,5 @@
 <h1 align="center">Good Evening 👋, I'm Yamayamaaya</h1>
-OLD_STRING
+<h4 align="center">WEATHER_INFORMATION</h4>
 <h3 align="center"><img align="center" width=10% src = "https://user-images.githubusercontent.com/100800509/236679459-df5a3b4e-da10-4fae-a82c-b55e1e96329c.gif"></h3>
 <h3 align="center">A university student in Japan.</h3>
 
