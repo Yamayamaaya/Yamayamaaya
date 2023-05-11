@@ -1,3 +1,6 @@
+現在の天気: light rain
+温度: 20.57℃
+湿度: 47%
 <h1 align="center">Good Afternoon 👋, I'm Yamayamaaya</h1>
 <h3 align="center"><img align="center" width=10% src = "https://user-images.githubusercontent.com/100800509/236726673-eeaa8d1b-c4c0-4e8d-8a89-3e5b55a915bc.gif"></h3>
 
