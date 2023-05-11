@@ -1,18 +1,16 @@
-<h1 align="center">Good Afternoon 👋, I'm Yamayamaaya</h1>
+<h1 align="center">Good Evening 👋, I'm Yamayamaaya</h1>
 <h4 align="center">weather: broken clouds
-temperature: 20.33℃
-humidity: 47%</h4>
-<h3 align="center"><img align="center" width=10% src = "https://user-images.githubusercontent.com/100800509/236726673-eeaa8d1b-c4c0-4e8d-8a89-3e5b55a915bc.gif"></h3>
-
+temperature: 14.89℃
+humidity: 73%</h4>
+<h3 align="center"><img align="center" width=10% src = "https://user-images.githubusercontent.com/100800509/236679459-df5a3b4e-da10-4fae-a82c-b55e1e96329c.gif"></h3>
 <h3 align="center">A university student in Japan.</h3>
-
 
 <div>
 <img width=10% src = "https://user-images.githubusercontent.com/100800509/235350309-29edabaf-1003-49d9-9ec4-0d87ad097ec5.png">
-<img width=80% src = "https://raw.githubusercontent.com/Yamayamaaya/Yamayamaaya/main/profile-summary-card-output/flag_india/0-profile-details.svg">
+<img width=80% src = "https://raw.githubusercontent.com/Yamayamaaya/Yamayamaaya/main/profile-summary-card-output/transparent/0-profile-details.svg">
 <img width=10% src = "https://user-images.githubusercontent.com/100800509/235350309-29edabaf-1003-49d9-9ec4-0d87ad097ec5.png">
-<img width=40% src = "https://raw.githubusercontent.com/Yamayamaaya/Yamayamaaya/main/profile-summary-card-output/flag_india/1-repos-per-language.svg">
-<img width=40% src = "https://raw.githubusercontent.com/Yamayamaaya/Yamayamaaya/main/profile-summary-card-output/flag_india/3-stats.svg">
+<img width=40% src = "https://raw.githubusercontent.com/Yamayamaaya/Yamayamaaya/main/profile-summary-card-output/transparent/1-repos-per-language.svg">
+<img width=40% src = "https://raw.githubusercontent.com/Yamayamaaya/Yamayamaaya/main/profile-summary-card-output/transparent/3-stats.svg">
 </div>
 
 
