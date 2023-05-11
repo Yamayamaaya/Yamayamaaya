@@ -23,6 +23,16 @@ jobs:
           else 
             cat README-night.md > README.md
           fi
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Update weather in README
+        run: python weather.py
+        env:
+          OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
       - name: Commit changes
         run: |
           git config user.name github-actions
