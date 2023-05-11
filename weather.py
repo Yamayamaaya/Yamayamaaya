@@ -19,5 +19,5 @@ readme_text = f"現在の天気: {weather_description}\n温度: {temperature}℃
 # READMEファイルを更新
 with open('README.md', 'r+') as f:
     content = f.read()
-    f.seek(0)
-    f.write(readme_text + '\n' + content)
+    new_content = content.replace('OLD_STRING',readme_text)
+    f.write(new_content)
