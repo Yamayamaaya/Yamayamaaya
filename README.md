@@ -1,16 +1,9 @@
 <h1 align="center">Good Afternoon 👋, I'm Yamayamaaya</h1>
-<h4 align="center">weather: scattered clouds
-temperature: 20.53℃
-humidity: 51%</h4>
-<h3 align="center"><img align="center" width=10% src = "https://user-images.gi![clear_day](https://github.com/Yamayamaaya/Yamayamaaya/assets/100800509/9744a4ef-3374-43dc-a8ee-d337dcd32a2f)
-thubusercontent.com/100800509/236726673-eeaa8d1b-c4c0-4e8d-8a89-3e5b55a915bc.gif"></h3>
-![clear_night](https://github.com/Yamayamaaya/Yamayamaaya/assets/100800509/da49294a-3706-4daf-8bf9-f8ab99fcb824)
-![crowd_day](https://github.com/Yamayamaaya/Yamayamaaya/assets/100800509/d53eec19-1fa1-4aaa-8752-56c1bb7ba273)
-![crowd_night](https://github.com/Yamayamaaya/Yamayamaaya/assets/100800509/8b5437f7-9550-4388-9d13-1765240d709d)
-![rain_day](https://github.com/Yamayamaaya/Yamayamaaya/assets/100800509/532b7cb3-374f-4b90-aa2e-5c322a6cdd9c)
-![rain_night](https://github.com/Yamayamaaya/Yamayamaaya/assets/100800509/88d46e58-a771-48fc-b1e3-aa80add5833c)
-![snow_day](https://github.com/Yamayamaaya/Yamayamaaya/assets/100800509/d9038324-0e4e-41c8-9b97-1ae153da8b55)
-![snow_night](https://github.com/Yamayamaaya/Yamayamaaya/assets/100800509/d1e3d163-212a-4c12-8a41-c114713a6373)
+<h4 align="center">temperature: 20.86℃
+
+
+humidity: 56%</h4>
+<h3 align="center"><img align="center" width=10% src = "https://github.com/Yamayamaaya/Yamayamaaya/assets/100800509/d53eec19-1fa1-4aaa-8752-56c1bb7ba273"></h3>
 
 <h3 align="center">A university student in Japan.</h3>
 
