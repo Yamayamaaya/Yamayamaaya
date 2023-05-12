@@ -1,8 +1,8 @@
-<h1 align="center">Good Morning 👋, I'm Yamayamaaya</h1>
-<h4 align="center">weather: broken clouds
-temperature: 14.95℃
-humidity: 63%</h4>
-<h3 align="center"><img align="center" width=10% src = "https://user-images.githubusercontent.com/100800509/236679302-2f5652d6-b139-4ea7-b7ac-2fea15b881f5.gif"></h3>
+<h1 align="center">Good Afternoon 👋, I'm Yamayamaaya</h1>
+<h4 align="center">weather: scattered clouds
+temperature: 20.53℃
+humidity: 51%</h4>
+<h3 align="center"><img align="center" width=10% src = "https://user-images.githubusercontent.com/100800509/236726673-eeaa8d1b-c4c0-4e8d-8a89-3e5b55a915bc.gif"></h3>
 
 <h3 align="center">A university student in Japan.</h3>
 
