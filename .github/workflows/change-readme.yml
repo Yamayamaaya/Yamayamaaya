@@ -35,6 +35,7 @@ jobs:
           OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
       - name: Commit changes
         run: |
+          git config user.name ${{ github.repository_owner }}
           git add README.md
           git commit -m "Display README"
           git push
