@@ -1,8 +1,8 @@
-<h1 align="center">Good Morning 👋, I'm Yamayamaaya</h1>
-<h4 align="center">temperature: 13.96℃
+<h1 align="center">Good Afternoon 👋, I'm Yamayamaaya</h1>
+<h4 align="center">temperature: 13.76℃
 
 
-humidity: 92%</h4>
+humidity: 90%</h4>
 <h3 align="center"><img align="center" width=10% src = "https://github.com/Yamayamaaya/Yamayamaaya/assets/100800509/532b7cb3-374f-4b90-aa2e-5c322a6cdd9c"></h3>
 
 <h3 align="center">A university student in Japan.</h3>
