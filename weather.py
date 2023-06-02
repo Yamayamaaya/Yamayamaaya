@@ -14,7 +14,7 @@ humidity = weather_data['main']['humidity']
 weather_main = weather_data['weather'][0]['main']
 
 # README用の文字列を構築
-readme_text = f"temperature: {temperature}℃\n\n\nhumidity: {humidity}%"
+readme_text = f"temperature: {temperature}℃\n\n\nhumidity: {humidity}%\n\n\nweather:{weather_main}"
 
 # READMEファイルを更新
 with open('README.md', 'r') as f:
