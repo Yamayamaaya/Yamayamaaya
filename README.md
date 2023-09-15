@@ -1,8 +1,8 @@
 <h1 align="center">Good Morning 👋, I'm Yamayamaaya</h1>
-<h4 align="center">temperature: 28.53℃
+<h4 align="center">temperature: 32.07℃
 
 
-humidity: 83%
+humidity: 68%
 
 
 weather:Clouds</h4>
