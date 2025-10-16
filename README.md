@@ -1,11 +1,11 @@
 <h1 align="center">Good Afternoon 👋, I'm Yamayamaaya</h1>
-<h4 align="center">temperature: 18.67℃
+<h4 align="center">temperature: 19.24℃
 
 
-humidity: 89%
+humidity: 90%
 
 
-weather:Mist</h4>
+weather:Drizzle</h4>
 <h3 align="center"><img align="center" width=10% src = "IMAGE_URL_DAY"></h3>
 
 <h3 align="center">A university student in Japan.</h3>
