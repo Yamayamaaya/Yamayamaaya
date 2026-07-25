@@ -2,7 +2,7 @@
 <h4 align="center">temperature: 35.14℃
 
 
-humidity: 66%
+humidity: 65%
 
 
 weather:Clouds</h4>
