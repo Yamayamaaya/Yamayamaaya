@@ -1,12 +1,12 @@
 <h1 align="center">Good Evening 👋, I'm Yamayamaaya</h1>
-<h4 align="center">temperature: 23.05℃
+<h4 align="center">temperature: 21.49℃
 
 
-humidity: 90%
+humidity: 96%
 
 
-weather:Clouds</h4>
-<h3 align="center"><img align="center" width=10% src = "https://github.com/Yamayamaaya/Yamayamaaya/assets/100800509/8b5437f7-9550-4388-9d13-1765240d709d"></h3>
+weather:Rain</h4>
+<h3 align="center"><img align="center" width=10% src = "https://github.com/Yamayamaaya/Yamayamaaya/assets/100800509/88d46e58-a771-48fc-b1e3-aa80add5833c"></h3>
 <h3 align="center">A university student in Japan.</h3>
 
 <details><summary><h2>My Status:</h2></summary>
